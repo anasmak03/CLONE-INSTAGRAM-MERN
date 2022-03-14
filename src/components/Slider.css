@@ -1,0 +1,9 @@
+.slider{
+    display: grid;
+    grid-row-end: auto;
+    background-color: #EFEFEF;
+    width: 528px;
+    height: 85vh;
+    margin-left: 818px;
+    margin-top: -100px;    
+}

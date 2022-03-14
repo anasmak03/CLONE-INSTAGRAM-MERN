@@ -1,0 +1,134 @@
+.posts{
+    width: 600px;
+    background-color: #FFFFFF;
+    height: 125vh;
+    margin-left: 218px;
+    margin-top: -410px;
+    border: 0.1px solid #EFEFEF;
+   
+}
+
+
+.title{
+    position: absolute;
+    width: 600px;
+    height: 60px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title .box img{
+    width: 20%;
+    border-radius: 60px;
+}
+
+.box span{
+    position: relative;
+    bottom:15px;
+    padding-left: 12px;
+    color: #262626;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.box{
+    margin-left: 12px;
+}
+
+.box1{
+    margin-right: 12px;
+    cursor: pointer;
+}
+
+.image {
+   width: 600px;
+   height: 600px;
+  
+}
+
+
+.like{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 600px;
+}
+
+.boxi{
+    margin-left: 12px;
+  
+}
+
+.boxi svg{
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+.boxi1{
+    margin-right: 12px;
+    cursor: pointer;
+}
+
+.stats{
+    width: 600px;
+    border-bottom: 0.1px solid #EFEFEF;
+    height: 120px;
+}
+
+.infos{
+    line-height: 10px;
+    margin-left: 12px;
+    padding: 1rem;
+    margin-top: -20px;
+}
+
+.jaime{
+    font-size: 14px;
+    color: #262626;
+}
+
+.jaime2{
+    font-size: 14px;
+    color: #262626;
+}
+
+.jaime3{
+    font-size: 14px;
+    color: #8e8e8e;
+}
+
+.jaime4{
+    font-size: 10px;
+    color: #8e8e8e;
+}
+
+.comment{
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.comment input{
+    width: 400px;
+    border: none;
+    background-color: transparent;
+}
+
+input:focus{
+    outline: none;
+}
+
+.publier{
+    color:#67BFF8;
+   
+   
+}
+
+.gap{
+    margin-bottom: 30px;
+}
